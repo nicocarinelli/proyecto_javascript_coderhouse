@@ -1,0 +1,50 @@
+[{
+    "id": 0,
+    "titulo": "Minions: Nace un villano", 
+    "genero": "Animacion", 
+    "duracion": "90 minutos", 
+    "precio": 950, 
+    "urlImagen": "https://pics.filmaffinity.com/Minions_El_origen_de_Gru-608394212-large.jpg"
+},
+{
+    "id": 1,
+    "titulo": "Thor: Love and Thunder",
+    "genero": "Aventura",
+    "duracion": "133 minutos",
+    "precio": 1070,
+    "urlImagen": "https://pics.filmaffinity.com/Thor_Love_and_Thunder-566116133-large.jpg"
+},
+{
+    "id": 2,
+    "titulo": "Elvis",
+    "genero": "Drama",
+    "duracion": "160 minutos",
+    "precio": 1150,
+    "urlImagen": "https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2022/05/LM_ELVIS_Triptych_Series_70s_VERT_2764x4096.jpg?resize=2764%2C4096&ssl=1"
+},
+{
+    "id": 3,
+    "titulo": "The Black Phone",
+    "genero": "Terror",
+    "duracion": "107 minutos",
+    "precio": 1280,
+    "urlImagen": "https://pics.filmaffinity.com/the_black_phone-804220392-large.jpg"
+},
+{
+    "id": 4,
+    "titulo": "Top Gun: Maverick",
+    "genero": "Accion",
+    "duracion": "133 minutos",
+    "precio": 1400,
+    "urlImagen": "https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2022/03/top-gun-poster-scaled.jpg?resize=800%2C1186&ssl=1"
+},
+{
+    "id": 5,
+    "titulo": "Batman",
+    "genero": "Accion",
+    "duracion": "171 minutos",
+    "precio": 1430,
+    "urlImagen": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_FMjpg_UX1000_.jpg"
+}
+]
+

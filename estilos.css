@@ -1,0 +1,11 @@
+/*DARK MODE*/
+.dark{
+    background-color:rgb(10, 11, 27);
+    color: white;
+}
+
+/*LIGHT MODE*/
+.light{
+    background-color: white;
+    color: black
+}
